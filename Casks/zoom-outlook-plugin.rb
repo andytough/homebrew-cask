@@ -1,4 +1,4 @@
-cask "zoomus-outlook-plugin" do
+cask "zoom-outlook-plugin" do
   version :latest
   sha256 :no_check
 
